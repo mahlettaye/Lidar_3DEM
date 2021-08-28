@@ -12,7 +12,8 @@ This project aims to create Lidar_3DEM python package that is used to extract da
 ### Data
 
 
-we have use USGS public dataset found here "https://s3-us-west-2.amazonaws.com/usgs-lidar-public/"
+
+We have use USGS public dataset found here "https://s3-us-west-2.amazonaws.com/usgs-lidar-public/"
 
 
 ### Functionality 
