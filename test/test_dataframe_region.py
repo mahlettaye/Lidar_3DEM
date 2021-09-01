@@ -8,12 +8,12 @@ from scripts.dataframe_region_bound import DataFromURL
 
 class TestDataFromURL(unittest.TestCase):
     """
-		A class for unit-testing function in the dataframe_region_bound.py file
+	A class for unit-testing function in the dataframe_region_bound.py file
 
-		Args:
+	Args:
         -----
-			unittest.TestCase this allows the new class to inherit
-			from the unittest module
+	unittest.TestCase this allows the new class to inherit
+	from the unittest module
 	"""
 
     def setUp(self):
